@@ -1,5 +1,5 @@
-import { useEffect, useReducer } from "react";
-function Summary({ summary, data }) {
+
+function Summary({  data }) {
   // console.log(summary);
   const intialRender = {
     expense: 0,
